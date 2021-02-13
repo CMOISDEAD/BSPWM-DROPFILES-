@@ -1,6 +1,7 @@
 # My Dotfiles
 
-These are my configuration files of all my basic working environment in linux
+![ScreenShot](/Previews/2021-02-10-140106_1600x900_scrot.png)
+These are my configuration files of all my basic working environment in linux, More on Previews folder.
 
 ## Installation
 
